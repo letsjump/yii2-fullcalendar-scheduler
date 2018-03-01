@@ -1,5 +1,5 @@
 {
-  "name": "edofre/yii2-fullcalendar-scheduler",
+  "name": "letsjump/yii2-fullcalendar-scheduler",
   "description": "Yii2 widget for fullcalendar scheduler module",
   "require": {
     "php": ">=5.5.0",
@@ -15,18 +15,18 @@
     "event",
     "calendar"
   ],
-  "homepage": "https://github.com/edofre/yii2-fullcalendar-scheduler",
+  "homepage": "https://github.com/letsjump/yii2-fullcalendar-scheduler",
   "type": "yii2-extension",
   "license": "MIT",
   "authors": [
     {
-      "name": "Edo Freriks",
-      "email": "edofre@gmail.com"
+      "name": "Gianpaolo Scrigna",
+      "email": "letsjump@gmail.com"
     }
   ],
   "autoload": {
     "psr-4": {
-      "edofre\\fullcalendarscheduler\\": "src"
+      "letsjump\\fullcalendarscheduler\\": "src"
     }
   },
   "extra": {
