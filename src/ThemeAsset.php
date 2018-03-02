@@ -1,6 +1,6 @@
 <?php
 
-namespace edofre\fullcalendarscheduler;
+namespace letsjump\fullcalendarscheduler;
 
 /**
  * Class ThemeAsset
